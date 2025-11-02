@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler
-from ..src.compare_methods import run_all
+from src.compare_methods import run_all
 
 
 st.set_page_config(page_title='GA Feature Selection - BIA601', layout='wide')
