@@ -1,7 +1,7 @@
 # Feature Selection using Genetic Algorithm (GA)
 # BIA601
 # class: C2
-# Students names: somr_178435 , 
+# Students names: somr_178435 , ali_192475 , Shaza_160476 , ahmad_200236 , Saeed_176193 , marla_192604 , batoul_208257
 
 ## Project Structure:
 - **src/**: Project code (GA + method comparison)
